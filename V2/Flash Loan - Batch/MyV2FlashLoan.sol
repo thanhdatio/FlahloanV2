@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: agpl-3.0
 pragma solidity 0.6.12;
 
-import { FlashLoanReceiverBase } from "FlashLoanReceiverBase.sol";
-import { ILendingPool, ILendingPoolAddressesProvider, IERC20 } from "Interfaces.sol";
+import { FlashLoanReceiverBase } from "https://github.com/thanhdatio/FlahloanV2/blob/main/V2/Flash Loan - Batch/FlashLoanReceiverBase.sol";
+import { ILendingPool, ILendingPoolAddressesProvider, IERC20 } from "https://github.com/thanhdatio/FlahloanV2/blob/main/V2/Flash Loan - Batch/Interfaces.sol";
 import { SafeMath } from "Libraries.sol";
 
 /** 
