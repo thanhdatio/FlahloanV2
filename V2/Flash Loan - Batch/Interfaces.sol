@@ -2,7 +2,7 @@
 pragma solidity 0.6.12;
 pragma experimental ABIEncoderV2;
 
-import { DataTypes } from "Libraries.sol";
+import { DataTypes } from "https://github.com/thanhdatio/FlahloanV2/blob/main/V2/Flash Loan - Batch/Libraries.sol";
 
 /**
  * @dev Interface of the ERC20 standard as defined in the EIP.
