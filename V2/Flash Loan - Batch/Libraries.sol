@@ -2,7 +2,7 @@
 pragma solidity 0.6.12;
 pragma experimental ABIEncoderV2;
 
-import { IERC20 } from "https://github.com/thanhdatio/FlahloanV2/blob/main/V2/Flash%20Loan%20-%20Batch/Interfaces.sol";
+import { IERC20 } from "./Interfaces.sol";
 
 library SafeMath {
   /**
